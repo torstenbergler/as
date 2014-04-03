@@ -11,11 +11,6 @@
 	</div><!-- #content -->
 
 	<footer id="colophon" class="site-footer" role="contentinfo">
-		<div class="site-info">
-			<a href="<?php echo esc_url( __( 'http://wordpress.org/', 'anna' ) ); ?>"><?php printf( __( 'Proudly powered by %s', 'anna' ), 'WordPress' ); ?></a>
-			<span class="sep"> | </span>
-			<?php printf( __( 'Theme: %1$s by %2$s.', 'anna' ), 'annasourminskaja', '<a href="http://www.torstenbergler.de" rel="designer">Torsten Bergler</a>' ); ?>
-		</div><!-- .site-info -->
 	</footer><!-- #colophon -->
 </div><!-- #page -->
 
